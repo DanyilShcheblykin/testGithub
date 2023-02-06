@@ -4,3 +4,5 @@ const tt='tt'
 const fff='fff'
 
 const fetch='dddd'
+
+const resetMerge = 'resetMerge'
