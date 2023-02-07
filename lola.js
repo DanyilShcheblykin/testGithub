@@ -8,3 +8,5 @@ const fetch='dddd'
 const resetMerge = 'resetMerge'
 
 const pfff= 'pfff'
+
+const lola='loaaoa'
