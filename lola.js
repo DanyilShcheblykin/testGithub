@@ -6,5 +6,3 @@ const fff='fff'
 const fetch='dddd'
 
 const resetMerge = 'resetMerge'
-
-const revertMerge = "revert"
